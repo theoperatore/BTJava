@@ -6,17 +6,17 @@ A generic Binary Search Tree impleneted in Java.
 Info
 ====
 
-This package is a Binary Search Tree with two generic types: keys, and values
+This package is a Binary Search Tree with two generic types: keys, and values;
 
 **Keys and Values**
 
 Keys may:
 
-* Be any class that has implemented the [Comparable Interface](http://docs.oracle.com/javase/6/docs/api/java/lang/Comparable.html).
+* Be any class that has implemented the [Comparable Interface](http://docs.oracle.com/javase/6/docs/api/java/lang/Comparable.html);
 
 Keys may NOT:
 
-* Be duplicates
+* Be duplicates with another key already in the tree;
 * Be null (A NullPointerException will be thrown);
 
 Values may be any class, and can be duplicates with another node already inserted
@@ -26,7 +26,7 @@ into the Tree.
 
 Import the package BSTJava and then instantiate a new BinaryTree<K,T>:
 
-    BinaryTree<Integer, String> tree = new BinaryTree<Integer, String();
+    BinaryTree<Integer, String> tree = new BinaryTree<Integer, String>();
 
 **Methods**
 
