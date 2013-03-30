@@ -50,4 +50,3 @@ Provided for quick reference:
 
 * Add methods to return the Height and Depth of the tree.
 * Add method to return the Length of the tree.
-* Better commenting and organization of BinaryTree class.
