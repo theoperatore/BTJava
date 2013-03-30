@@ -1,4 +1,4 @@
-package BSTJava;
+package BTJava;
 
 class TreeNode<K,T> {
 	

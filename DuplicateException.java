@@ -1,4 +1,4 @@
-package BSTJava;
+package BTJava;
 
 @SuppressWarnings("serial")
 public class DuplicateException extends Exception {

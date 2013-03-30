@@ -1,4 +1,4 @@
-package BSTJava;
+package BTJava;
 
 import java.io.PrintStream;
 

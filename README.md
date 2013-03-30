@@ -1,12 +1,12 @@
-BSTJava
+BTJava
 =======
 
-A generic Binary Search Tree impleneted in Java.
+A generic Binary Tree impleneted in Java.
 
 Info
 ====
 
-This package is a Binary Search Tree with two generic types: keys, and values;
+This package is a Binary Tree with two generic types: keys, and values;
 
 **Keys and Values**
 
@@ -24,7 +24,7 @@ into the Tree.
 
 **General Implementation**
 
-Import the package BSTJava and then instantiate a new BinaryTree<K,T>:
+Import the package BTJava and then instantiate a new BinaryTree<K,T>:
 
     BinaryTree<Integer, String> tree = new BinaryTree<Integer, String>();
 
